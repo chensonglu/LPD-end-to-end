@@ -1,4 +1,4 @@
-My environment configurations: Ubuntu 16.04, Python 3.5.2, PyTorch 1.3.1, CUDA 10.1, CUDNN 7.6.5, numpy 1.15.4, opencv 3.4.4, matplotlib 3.0.2.
+My configurations: Ubuntu 16.04, Python 3.5.2, PyTorch 1.3.1, CUDA 10.1, CUDNN 7.6.5, numpy 1.15.4, opencv 3.4.4, matplotlib 3.0.2.
 
 You should also install the library [RoiAlign](https://github.com/longcw/RoIAlign.pytorch).
 
